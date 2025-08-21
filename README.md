@@ -30,4 +30,4 @@ The dashboard provides actionable insights to HR managers, helping them design b
  How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/HR-Analytics-Dashboard.git
+   git clone https://github.com/your-SyedaKaneesFathima/HR-Analytics-Dashboard.git
